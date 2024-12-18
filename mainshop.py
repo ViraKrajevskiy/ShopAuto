@@ -7,11 +7,11 @@ from product import Product
 
 shop = Shop("HUMO","Toshkent Shahar",10000)
 
-user1 = User(12345678,"Akbarxon Fayzullayev","akbarxonfayzullayev@gmail.com","+998788889886",True)
-user2 = User(87654321,"Kamoliddin Kabulov","kamoliddinkabulov@gmail.com","+998788889888",True)
-user3 = User(11223344,"Ali Valiyev","alivaliyev@gmail.com","+998788889888",False)
-user4 = User(44332211,"Nizomiddin Jamolov","nizomiddin@gmail.com","+998788889888",False)
-user5 = User(12341234,"Alisher Navoiy","navoiylegenda@gmail.com","+998788889888",False)
+user1 = User(12345678,"Akbarxon ","Fayzullayev","akbarxonfayzullayev@gmail.com","+998788889886",True)
+user2 = User(87654321,"Kamoliddin ","Kabulov","kamoliddinkabulov@gmail.com","+998788889888",True)
+user3 = User(11223344,"Ali ","Valiyev","alivaliyev@gmail.com","+998788889888",False)
+user4 = User(44332211,"Nizomiddin ","Jamolov","nizomiddin@gmail.com","+998788889888",False)
+user5 = User(12341234,"Alisher ","Navoiy","navoiylegenda@gmail.com","+998788889888",False,)
 
 superuser =[user1,user2,user3,user4,user5]
 
